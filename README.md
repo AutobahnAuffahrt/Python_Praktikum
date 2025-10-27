@@ -85,5 +85,5 @@ Du brauchst drei Programme:
 
 ### Erste Datei ausführen (Start von Tag 1)
 
-1. Öffne die Datei `tag_01_python_basics/main.py` in VS Code.
+1. Öffne die Datei `tag_01/main.py` in VS Code.
 2. Drücke `F5` oder klicke auf **Run Python File** oben rechts.
